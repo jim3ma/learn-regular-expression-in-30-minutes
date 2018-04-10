@@ -12,6 +12,10 @@
 
 本文是从 `luke0922` 的 [GitBook](https://legacy.gitbook.com/book/luke0922/learnregularexpressionin30minutes/details) 上复制下来，再次修改的，主要是方便自己修改其中的错误，并且同步原作者的一些修改。
 
+## 电子书下载
+
+可以从 [GitBook](https://legacy.gitbook.com/book/jim3ma/learn-regular-expression-in-30-minutes/details) 上下载本书的电子版，包含 `epub`、`pdf`、`mobi` 格式。
+
 ## 联系我
 
 主页：[https://blog.jim.plus](https://blog.jim.plus)
