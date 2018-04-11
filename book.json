@@ -1,0 +1,53 @@
+{
+  "author": "deerchao",
+  "description": "30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它",
+  "extension": null,
+  "generator": "site",
+  "isbn": "",
+  "links": {
+	"sharing": {
+	  "all": null,
+	  "facebook": null,
+	  "google": null,
+	  "twitter": null,
+	  "weibo": null
+	},
+	"sidebar": {
+	  "正则表达式30分钟入门教程": "https://github.com/jim3ma/learn-regular-expression-in-30-minutes"
+	}
+  },
+  "output": null,
+  "pdf": {
+	"fontSize": 12,
+	"footerTemplate": null,
+	"headerTemplate": null,
+	"margin": {
+	  "bottom": 36,
+	  "left": 62,
+	  "right": 62,
+	  "top": 36
+	},
+	"pageNumbers": false,
+	"paperSize": "a4"
+  },
+  "plugins": ["edit-link","github-buttons","github"],
+  "pluginsConfig": {
+    "github": {
+        "url": "https://github.com/jim3ma/learn-regular-expression-in-30-minutes"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "jim3ma",
+        "repo": "learn-regular-expression-in-30-minutes",
+        "type": "star",
+        "size": "small"
+      }]
+    },
+    "edit-link": {
+      "base": "https://github.com/jim3ma/learn-regular-expression-in-30-minutes/edit/master/",
+      "label": "编辑本页"
+    }
+  },
+  "title": "正则表达式30分钟入门教程",
+  "variables": {}
+}
