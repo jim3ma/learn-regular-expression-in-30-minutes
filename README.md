@@ -16,8 +16,15 @@
 
 可以从 [GitBook](https://legacy.gitbook.com/book/jim3ma/learn-regular-expression-in-30-minutes/details) 上下载本书的电子版，包含 `epub`、`pdf`、`mobi` 格式。
 
+## 参与贡献
+
+时间仓促，错误在所难免，如果发现有任何错误的地方，您可以直接点击左上角的`编辑本页`，进行编辑，提交修改。
+
+如果觉得您本文还不错，可以[点击这里](https://github.com/jim3ma/learn-regular-expression-in-30-minutes/)前往 Github star 一下本文。
+
 ## 联系我
 
 主页：[https://blog.jim.plus](https://blog.jim.plus)
+
 邮箱：[majinjing3@gmail.com](mailto:majinjing3@gmail.com)
 
